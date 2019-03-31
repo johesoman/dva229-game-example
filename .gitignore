@@ -1,4 +1,4 @@
-DVA229GameExample/bin/*
-DVA229GameExample/obj/*
-packages/*
-.vs/*
+DVA229GameExample/bin/
+DVA229GameExample/obj/
+packages/
+.vs/
